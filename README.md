@@ -8,7 +8,7 @@ A simple JMS Topic Subscriber and Queue Receiver with Weblogic JMS provider libr
 
 - Java 11+
 - Maven 3.7+
-- 
+- wlthint3client-14.1.1 compatible with Java11
 
 
 
