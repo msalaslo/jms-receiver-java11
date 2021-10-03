@@ -1,1 +1,4 @@
 /Usersmiguel.salas.my-bitbucket-credentials.lock
+/.classpath
+/org.eclipse.jdt.core.prefs
+/target*
